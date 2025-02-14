@@ -16,14 +16,17 @@ A simple console-based Tic Tac Toe game implemented in Java. Play against a frie
 ## How to Run
 
 1. **Clone the repository**:
-   git clone https://github.com/ifskelton69/tic_tac_toe.git
-   cd tic_tac_toe
+   
+         git clone https://github.com/ifskelton69/tic_tac_toe.git
+         cd tic_tac_toe
 
-2. **Compile the Java file**:
-   javac tic_tac_toe.java
+3. **Compile the Java file**:
+   
+         javac tic_tac_toe.java
 
-3. **Start the game**:
-   java tic_tac_toe
+5. **Start the game**:
+   
+         java tic_tac_toe
 
 ## Game Instructions
 
